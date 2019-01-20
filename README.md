@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README contains aspects that are still to be finished developing for this project.
 
-Things you may want to cover:
+Aspects unfinished as of this time:
 
-* Ruby version
+* Working mailer reservations 
 
-* System dependencies
+* Reservation/forms page working and displaying as intended
 
-* Configuration
+* Updated page redirects
 
-* Database creation
+* Ruby on Rails functions/methods & documentation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+. . .
