@@ -12,4 +12,6 @@ Aspects unfinished as of this time:
 
 * Ruby on Rails functions/methods & documentation
 
+* Heroku Deployment
+
 . . .
